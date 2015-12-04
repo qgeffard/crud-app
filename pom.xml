@@ -87,11 +87,6 @@
 	</dependencies>
 
 
-	<build>
-		<plugins>
-
-		</plugins>
-	</build>
 
 	<modules>
 		<module>crud-app-common</module>
