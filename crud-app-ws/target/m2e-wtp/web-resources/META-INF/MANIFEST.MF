@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud-app-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hchbani
+Specification-Title: crud-app-ws
+Implementation-Vendor-Id: fr.esiag.isidis
+Build-Jdk: 1.8.0_65
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
